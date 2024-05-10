@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    margin: 0px 109px 0px 109px;
+}
+.table{
+    /* border: 1px solid black; */
+    border-bottom: 1px solid rgba(116, 219, 253, 0.323);
+    font-size: small;
+}
+.sym{
+    
+    height: 25px;
+}
+
+td{
+    font-size: medium;
+    /* padding: 10px; */
+    /* height: 50px; */
+    vertical-align: bottom;
+  
+}
+
+.bottom{
+    display: flex;
+    margin-bottom: 50px;
+}
+.page{
+    margin-left: 400px;
+    margin-right: 100px;
+}
+#demo-select-small-label{
+    font-size: 20px;
+    margin-right: 5px;
+}
